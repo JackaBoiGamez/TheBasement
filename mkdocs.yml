@@ -1,5 +1,7 @@
 site_name: TheBasement Codebase
 site_url: https://jackaboigamez.github.io/TheBasement
+repo_name: TheBasement
+repo_url: https://jackaboigamez.github.io/TheBasement/
 
 theme:
   name: material
