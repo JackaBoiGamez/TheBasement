@@ -1,10 +1,8 @@
 Inheritable class with a `Enter` and `Exit` method:
 
-!!! info "States"
+!!! info "Inherited"
 
-    A table of classes that inherit the State class.
-
-Will require States to pass into the constructor.
+    State is a class that must be inherited by another class to be used!
 
 ```luau title="Example State Class"
 local WalkingState = {}
