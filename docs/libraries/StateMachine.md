@@ -6,13 +6,13 @@ Class made to contain and switch between States:
 
 Will require States to pass into the constructor.
 
-```lua title="States Table"
-# States Table Example
+```luau title="States Table"
+-- States Table Example
 local States: {[string]: typeof(State)} = {
     ["Walking"] = LoadingState.new(),
     ["Running"] = RunningState.new()
 }
 
-# Example Object Creation
+-- Example Object Creation
 local stateMachine = StateMachine.new(States)
 ```
