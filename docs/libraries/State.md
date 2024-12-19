@@ -4,7 +4,9 @@ Inheritable class with a `Enter` and `Exit` method:
 
     State is a class that must be inherited by another class to be used!
 
-```luau title="Example State Class"
+## Example Class
+
+```luau title="WalkingState Class"
 local WalkingState = {}
 WalkingState.__index = WalkingState
 
@@ -23,3 +25,11 @@ end
 
 return WalkingState
 ```
+
+## Methods
+
+You can pass in any arguments into these methods
+
+`State:Enter(...)`
+
+`State:Exit(...)`
