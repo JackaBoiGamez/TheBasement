@@ -1,8 +1,16 @@
 # TheBasement Codebase Documentation
 
-This documentation for the codebase behind TheBasement Roblox game.
+This is documentation for the codebase behind "TheBasement" Roblox game.
 
 Here we document all of our libraries and APIs in order to better organize our scripts for our game.
+
+!!! info "Info"
+
+    This does not include the actual source scripts, but rather just examples of how to use them.
+
+    You can however use any of the example scripts freely.
+
+    The source code of the website is also free to use and is on GitHub 😋
 
 ## [Libraries](/TheBasement/libraries/)
 
