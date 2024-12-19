@@ -9,9 +9,7 @@ local WalkingState = {}
 WalkingState.__index = WalkingState
 
 function WalkingState.new(): typeof(WalkingState)
-    local self = State.new()
-    setmetatable(self, WalkingState)
-    return self
+    return setmetatable(State.new("Walking"),WalkingState)
 end
 
 -- Only using player as an example you can pass in other arguments

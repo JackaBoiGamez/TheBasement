@@ -1,17 +1,14 @@
-# Welcome to MkDocs
+# TheBasement Codebase Documentation
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This documentation for the codebase behind TheBasement Roblox game.
 
-## Commands
+Here we document all of our libraries and APIs in order to better organize our scripts for our game.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## [Libraries](/TheBasement/libraries/)
 
-## Project layout
+This contains all classes that are to be reused.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## [APIs](/TheBasement/apis/)
+
+This contains all API headers that are meant to be accesss points.
+These access points are for different systems and data.

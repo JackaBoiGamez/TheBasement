@@ -16,3 +16,18 @@ local States: {[string]: typeof(State)} = {
 -- Example Object Creation
 local stateMachine = StateMachine.new(States)
 ```
+
+You can switch states by simply calling `:ChangeState("StateName", arguments)`
+
+```luau title="Switch State Example"
+stateMachine:ChangeState("Running", player)
+```
+
+You can connect to the `OnStateChange` signal for event based scripts.
+
+```luau title="OnStateChange Example"
+stateMachine.OnStateChange:Connect(function(newState, currentState)
+    if currentState.name ~= "Running" or newState.name ~= "Walking" return end
+    print("Player Slowed Down :(")
+end)
+```
