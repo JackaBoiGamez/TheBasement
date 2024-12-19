@@ -2,10 +2,6 @@ Class made to contain and switch between States:
 
 ## Constructor
 
-??? info "States"
-
-    A table of classes that inherit the State class.
-
 Requires Name of Inital State and a Table of States
 
 ```luau title="States Table"
