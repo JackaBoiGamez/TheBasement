@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://jackaboigamez.github.io/TheBasement/</loc>
+         <lastmod>2024-12-29</lastmod>
+    </url>
+    <url>
+         <loc>https://jackaboigamez.github.io/TheBasement/entities/</loc>
+         <lastmod>2024-12-29</lastmod>
+    </url>
+    <url>
+         <loc>https://jackaboigamez.github.io/TheBasement/libraries/</loc>
+         <lastmod>2024-12-29</lastmod>
+    </url>
+    <url>
+         <loc>https://jackaboigamez.github.io/TheBasement/libraries/State/</loc>
+         <lastmod>2024-12-29</lastmod>
+    </url>
+    <url>
+         <loc>https://jackaboigamez.github.io/TheBasement/libraries/StateMachine/</loc>
+         <lastmod>2024-12-29</lastmod>
+    </url>
+</urlset>
