@@ -1,8 +1,8 @@
-# TheBasement Codebase Documentation
+# TheBasement Documentation
 
-This is documentation for the codebase behind "TheBasement" Roblox game.
+This is documentation for the codebase and entities behind "TheBasement" Roblox game.
 
-Here we document all of our libraries and APIs in order to better organize our scripts for our game.
+Here we document all of our libraries, APIs, and Entities in order to better organize our game.
 
 !!! info "Info"
 
@@ -20,3 +20,7 @@ This contains all classes that are to be reused.
 
 This contains all API headers that are meant to be accesss points.
 These access points are for different systems and data.
+
+## [Entities](/TheBasement/entities/)
+
+This contains all information related to entities.

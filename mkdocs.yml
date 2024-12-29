@@ -34,6 +34,7 @@ theme:
 nav:
   - Home: index.md
   - Libraries: libraries.md
+  - Entities: entities.md
 
 markdown_extensions:
   - attr_list
