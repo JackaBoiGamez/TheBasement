@@ -48,6 +48,9 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.caret
   - pymdownx.tabbed:
       alternate_style: true
   - admonition
