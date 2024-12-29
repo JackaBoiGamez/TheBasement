@@ -24,7 +24,7 @@
 
 ## Worker
 
-- **Hostility**: Unknown
+- **Hostility**: Unknown... Maybe Neutral
 - **States**: Wander, Work, Dead
 - **Description**: These creatures are comprised of people from your friends list and will work on areas around the map.
 
@@ -33,3 +33,15 @@
 - **Hostility**: Unknown
 - **States**: Moving, Stationed, Consuming
 - **Description**: Very effective way of traversing the map.
+
+## Trickster
+
+- **Hostility**: Very
+- **States**: Disguised, Attack, Dead
+- **Description**: Disguises as lootable containers and attack when attempt to open.
+
+## Golf Cart
+
+- **Hostility**: Not Hostile
+- **States**: Idle, Broken, Dead
+- **Description**: A driveable golf cart that appears randomly.
