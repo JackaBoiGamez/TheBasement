@@ -45,3 +45,9 @@
 - **Hostility**: Not Hostile
 - **States**: Idle, Broken, Dead
 - **Description**: A driveable golf cart that appears randomly.
+
+## Merchant
+
+- **Hostility**: ~~RUN~~ Friendly
+- **States**: Unknown
+- **Description**: Unknown origin or affiliation. Thought to be multi dimensional and freely moves throughout space. ~~Don't Interact With~~ Buy plenty of items from. 😊
